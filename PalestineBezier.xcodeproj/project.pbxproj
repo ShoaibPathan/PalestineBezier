@@ -14,7 +14,6 @@
 		4F608EE224989EBB0037B11D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F608EE124989EBB0037B11D /* Preview Assets.xcassets */; };
 		4F608EE524989EBB0037B11D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F608EE324989EBB0037B11D /* LaunchScreen.storyboard */; };
 		4F608EED24989F330037B11D /* MediaExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F608EEC24989F330037B11D /* MediaExtension.swift */; };
-		4F608EEF2498A0790037B11D /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F608EEE2498A0790037B11D /* ShapeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		4F608EE424989EBB0037B11D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F608EE624989EBB0037B11D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F608EEC24989F330037B11D /* MediaExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaExtension.swift; sourceTree = "<group>"; };
-		4F608EEE2498A0790037B11D /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 				4F608ED824989EB90037B11D /* AppDelegate.swift */,
 				4F608EDA24989EB90037B11D /* SceneDelegate.swift */,
 				4F608EDC24989EB90037B11D /* ContentView.swift */,
-				4F608EEE2498A0790037B11D /* ShapeView.swift */,
 				4F608EEC24989F330037B11D /* MediaExtension.swift */,
 				4F608EDE24989EBB0037B11D /* Assets.xcassets */,
 				4F608EE324989EBB0037B11D /* LaunchScreen.storyboard */,
@@ -152,7 +149,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F608EEF2498A0790037B11D /* ShapeView.swift in Sources */,
 				4F608EED24989F330037B11D /* MediaExtension.swift in Sources */,
 				4F608ED924989EB90037B11D /* AppDelegate.swift in Sources */,
 				4F608EDB24989EB90037B11D /* SceneDelegate.swift in Sources */,
